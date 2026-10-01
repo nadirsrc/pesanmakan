@@ -150,10 +150,3 @@ php artisan test --compact
    Menghapus file fisik dari harddisk server (`Storage::disk('public')->delete()`) saat foto makanan diperbarui atau dihapus.
 5. **CSRF Protection & RESTful Method Spoofing:**  
    Pengamanan form dengan token `@csrf` dan penggunaan directive `@method('PUT')`, `@method('PATCH')`, dan `@method('DELETE')`.
-
----
-
-## 👨‍💻 Pengembang
-* **Nama:** Peserta Pelatihan / Uji Kompetensi JWP
-* **Skema:** Junior Web Programmer (JWP) - BPSDMP Kominfo / BNSP
-* **Lisensi:** [MIT License](LICENSE)
